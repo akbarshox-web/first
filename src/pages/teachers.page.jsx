@@ -36,7 +36,7 @@ function TeachersPage() {
 	return (
 		<div>
 			<div>
-				<h2>teachers</h2>
+				<h2>Students</h2>
 				<Button>Add</Button>
 			</div>
 			<Table dataSource={teachers} columns={columns} />
